@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "정보관리자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "정보를 전달해드립니다."
   location         : "Somewhere"
   email            :
   links:
